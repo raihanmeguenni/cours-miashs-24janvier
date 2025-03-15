@@ -6,7 +6,7 @@ import { postAddToWatchlist } from "./postAddToWatchlist.js";
 import { postRemoveFromWatchlist } from "./removeFromWatchlist.js";
 import FastifySwagger from "@fastify/swagger";
 import FastifySwaggerUi from "@fastify/swagger-ui";
-
+//je suis un commentaire
 const fastify = Fastify({
   logger: true,
 });
